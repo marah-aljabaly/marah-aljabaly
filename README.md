@@ -1,5 +1,5 @@
 # <h1 align="center">Hi, I'm Marah Aljabaly<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 align="center">A frontend developer from Palestine 🇵🇸</h3>
+<h3 align="center">Ambitious Front-End Developer</h3>
 <br/>
 - 👀 I’m currently learning Computer Engineering, and I secure a place on the Excellence List.
 <br/>
