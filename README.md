@@ -1,4 +1,4 @@
-# <h1 align="center">Hi, I'm Marah Aljabaly<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+# <h1 align="center">Hi, I'm Marah Aljabali<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 <h3 align="center">Ambitious Engineer</h3>
 <br/>
 - 👀 I’m currently learning Computer Engineering, and I secure a place on the Excellence List.
